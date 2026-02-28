@@ -1,0 +1,42 @@
+.forget{
+    fornt-size:20px;
+    color:black;
+    text-decoration:none;
+}
+.forget:hover{
+     color:rgb(246, 8, 8);
+     text-decoration: underline;
+     cursor:all-scroll;
+}
+button{
+    width:70px;
+    color:whitesmoke;
+   border:none;
+   border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+}
+button:hover{
+    color:aqua;
+    border-radius:15px;
+}
+body{
+    background-color:whitesmoke;
+
+}
+.login-card{
+    border:1px solid yellowgreen;
+    width:40%;
+    height:40vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:start;
+}
+.form-control{
+    display:flex;
+    flex-direction:column;
+}
+input{
+    height:28px;
+    width:70%;
+    border-radius:10px;
+}

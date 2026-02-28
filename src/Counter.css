@@ -1,0 +1,21 @@
+.btn_Counter{
+    width: 50%;
+    height:6vh;
+}
+.counter{
+    margin-left:20%;
+    width:100%;
+
+}
+.box-dark{
+    width:10%;
+    height:10vh;
+    background-color:black;
+
+}
+.box-white{
+    width:100%;
+    height:40vh;
+    background-color:white;
+    
+}
