@@ -44,4 +44,4 @@ const L=()=>{
         </>
     )
 }
-export default L;
+export default L

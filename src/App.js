@@ -1,20 +1,26 @@
-import './Counter.css';
-//import Props from './Props';
-import Counter from './Counter';
-import Dynamic from './Dynamic'
+import React from "react";
+//import {  Routes, Route } from "react-router";
+//import "./App.css";
 
-function App()
-{
- 
+//import Layout_Task from "./Task/Layout_Task";
+//import Home_Task from "./Task/Home_Task";
+//import About_Task from "./Task/About_Task";
+//import Skills_Task from "./Task/Skills_Task";
+//import Projects_Task from "./Task/Projects_Task";
+//import Contact_Task from "./Task/Contact_Task";
+//import Login_Task from "./Task/Login_Task";
+//import Accordian_Task from "./Task/Accordian_Task";
+import As from "./As";
+function App() {
+  return (
+   
+  <>
+  <As/>
+  </>
   
 
-  return(
-    
-    <div>
-     
-      <Dynamic/>
-     
-    </div>
+
   );
 }
+
 export default App;

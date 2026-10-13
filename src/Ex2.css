@@ -1,0 +1,13 @@
+.AA{
+    border:1px solid rgb(16, 18, 14);
+    width:40%;
+    height:40vh;
+    flex-direction:column;
+    justify-content:start;
+    min-height: 1vh; 
+   
+}
+body{
+    color:blueviolet;
+    background-color:skyblue;
+}

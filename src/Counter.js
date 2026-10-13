@@ -7,7 +7,7 @@ const Counter=()=>{
     const[count,setCount]=useState(true);
     function change(){
         setCount(!count)
-        console.log(count)
+       
     }
     return(
         <div className='counter'>
